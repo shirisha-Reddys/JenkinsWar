@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins Successfully Deloyed War file in Tomcat done by Raju!</h2>
+<h2>Jenkins Successfully deployed war file to Tomcat</h2>
 </body>
 </html>
